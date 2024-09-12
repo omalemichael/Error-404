@@ -1,0 +1,40 @@
+body{
+    font-family: monospace, 'Courier New', Courier, monospace;
+    /* padding:10px; */
+}
+    h3{
+        font-size: 30px;
+        margin:24px 0px 35px 50px;
+    }
+        #text h1{
+            font-size: 48px;
+            width:  70%;
+        }
+            #content{
+                display:flex;
+                width: 80%;
+                /* border:solid thick black; */
+                margin:100px 0px 0px;
+            }
+                #image{
+                    width: 50%;
+                    /* border:solid thick black; */
+                }
+                    img{
+                        width: 80%;
+                        margin:32px 0px
+                    }
+                        p{
+                            width: 70%;
+                            marging:18px 0px;
+                        }
+                            #text{
+                                padding: 20px;
+                            }
+                                .button{
+                                    color: white;
+                                    background-color: black;
+                                    padding: 20px 38px;
+                                    font-size: 14px;
+                                    margin:45px 0px 0px;
+                                }
